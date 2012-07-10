@@ -5,19 +5,17 @@
 
 * ![Apple icon][3]   Apple Company.
 
-	1. ![microsoft icon][4]   Microsoft Company.
+1. ![microsoft icon][4]   Microsoft Company.
 
-		2. ![Amozon icon][5]  Amazon Company.
+2. ![Amozon icon][5]  Amazon Company.
 
+* ![yahoo icon][6]  Yahoo Company.
 
-			* ![yahoo icon][6]  Yahoo Company.
+* ![qq icon][7]  QQ company.
 
-				* ![qq icon][7]  QQ company.
+* ![sohu icon][8] Sohu Campany.
 
-					* ![sohu icon][8] Sohu Campany.
-
-	
-						* ![sina][9] sina.
+* ![sina][9] sina.
 
 * ![q][10] 163
 
